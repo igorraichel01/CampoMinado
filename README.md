@@ -1,2 +1,2 @@
 # CampoMinado
-Jogo Campo Minado  código em java , feito no eclipse  com conceitos avançados.
+Jogo Campo Minado  código em java , feito no Eclipse Ide  com conceitos avançados.
